@@ -23,13 +23,3 @@ A responsive e-commerce website built using HTML5, CSS3, JavaScript and Bootstra
 - JavaScript
 - Bootstrap
 
-## Project Structure
-
-```text
-Zestify/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── images/
