@@ -2,6 +2,9 @@
 
 A responsive e-commerce website built using HTML5, CSS3, JavaScript and Bootstrap.
 
+## Live Demo
+
+[View Live Demo](https://zestify-ecommerce.vercel.app)
 
 
 ## Features
